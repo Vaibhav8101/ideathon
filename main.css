@@ -1,0 +1,44 @@
+#nav{
+    padding-top: 30px;
+    font-size: 23px;
+}
+.c1{
+    max-width: 100vw;
+    height:  612px;
+    padding-top: 17px;
+}
+.c2{
+    display: flex;
+    flex-direction: row;
+}
+.card{
+    margin-top: 38px;
+    margin-inline: 49px;
+}
+.card-img-top{
+    height: 224px;
+}
+.c5{
+    background-color: blue;
+    display: flex;
+    text-align: center;
+    max-width: 30%;
+    font-size: 50px;
+    /* margin-top: 0px; */
+    padding-top: -3px;
+    padding-left: 34px;
+    border: 2px solid black;
+    border-radius: 28px;
+}
+.c6
+{
+    /* background-color: yellow; */
+    margin-top: 28px;
+    padding-left: 119px;
+    margin-left: 2px;
+}
+#nav:hover{
+    color: white;
+    
+
+}
